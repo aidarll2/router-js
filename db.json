@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "title": "sqd",
+      "price": "dsad",
+      "image": "https://cdn.wallpapersafari.com/92/24/KHbzBS.jpg",
+      "id": 1
+    },
+    {
+      "title": "sa",
+      "price": "sa",
+      "image": "aasas",
+      "id": 2
+    },
+    {
+      "title": "cdc",
+      "price": "dcd",
+      "image": "cdcd",
+      "id": 3
+    }
+  ]
+}
